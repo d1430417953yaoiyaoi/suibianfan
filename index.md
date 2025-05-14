@@ -1,3 +1,7 @@
+---
+title: "aipaqianghanhua"
+date: 2025-05-14
+---
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
